@@ -1,0 +1,2 @@
+C:\Users\asias\OneDrive\Documents\CodeEx\_01_Json\_01_JSon\_01_JSon\obj\Debug\_01_JSon.csprojAssemblyReference.cache
+C:\Users\asias\OneDrive\Documents\CodeEx\_01_Json\_01_JSon\_01_JSon\obj\Debug\_01_JSon.csproj.CoreCompileInputs.cache

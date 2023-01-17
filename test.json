@@ -1,0 +1,13 @@
+{
+  "IP": "127.0.0.1",
+  "ID": "BEOMBEoMJOJO",
+  "PW": "1234",
+  "SID": "TEST",
+  "DATABASE": "TEST",
+  "USERS": [
+    "USER1",
+    "USER2",
+    "USER3",
+    "USER4"
+  ]
+}
